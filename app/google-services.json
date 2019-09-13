@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336788462384",
+    "firebase_url": "https://relearning-bootcamp-2019.firebaseio.com",
+    "project_id": "relearning-bootcamp-2019",
+    "storage_bucket": "relearning-bootcamp-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336788462384:android:b4ad13f8bf8acd1dda86f5",
+        "android_client_info": {
+          "package_name": "com.relearning.bootcamp2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336788462384-al55nt5cattbejnmcv6nt2fru2svghjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ55G-QrhabAbI8UfsQvadwJXt9gWmUKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336788462384-al55nt5cattbejnmcv6nt2fru2svghjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

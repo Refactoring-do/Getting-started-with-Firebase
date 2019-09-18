@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>welcome_message</key>
+        <value>Bienvenido al ReBootcamp</value>
+    </entry>
+
+    <entry>
+        <key>primary_color</key>
+        <value>#008577</value>
+    </entry>
+</defaultsMap>
+

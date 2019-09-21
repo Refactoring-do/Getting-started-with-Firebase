@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onChildAdded(snapshot: DataSnapshot, p1: String?) {
-                var message = snapshot.getValue(Message::class.java)
+                val message = snapshot.getValue(Message::class.java)
                 message?.let {
                     messagesList.add(it)
                     adapter.notifyDataSetChanged()
